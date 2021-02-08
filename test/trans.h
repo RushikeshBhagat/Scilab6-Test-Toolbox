@@ -1,0 +1,1 @@
+void transpose(int **arr1, int row, int col);
